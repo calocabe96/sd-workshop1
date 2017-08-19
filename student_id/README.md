@@ -2,7 +2,7 @@
 
 **Nombre:** student_name  
 **Código:** student_id
-**Github URL:** github_url
+**Github URL:** github_fork_url
 
 ## Descripción
 
