@@ -1,7 +1,7 @@
 # Taller 1
 
 **Nombre:** student_name  
-**Código:** student_id
+**Código:** student_id  
 **Github URL:** github_fork_url
 
 ## Descripción
