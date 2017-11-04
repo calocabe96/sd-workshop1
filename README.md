@@ -186,7 +186,7 @@ end
 
 
 
-[1]: Images/web1.2.PNG
-[2]: Images/web1.PNG
-[3]: Images/web2.PNG
-[4]: Images/web2.2.PNG
+[1]: A00052216/Imagenes/web1.jpeg
+[2]: A00052216/Imagenes/web2.jpeg
+[3]: A00052216/Imagenes/web3.jpeg
+[4]: A00052216/Imagenes/web4.jpeg
